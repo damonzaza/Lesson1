@@ -19,6 +19,5 @@ public class Task2 {
         System.out.println("Sum is "+ (a*b));
         System.out.println("Sum is "+ (a/b));
         System.out.println("Sum is "+ (a%b));
-
     }
 }
