@@ -12,8 +12,7 @@ public class Task2 {
         System.out.println("This is calculator for random inegers");
         a=(int)(Math.random()*100);
         b=(int)(Math.random()*100);
-        System.out.println("First integer is "+ a);
-        System.out.println("Second integer is "+ b);
+        System.out.println("First integer is "+ a +"\nSecond integer is "+ b);
         System.out.println("Sum is "+ (a+b));
         System.out.println("Sum is "+ (a-b));
         System.out.println("Sum is "+ (a*b));
