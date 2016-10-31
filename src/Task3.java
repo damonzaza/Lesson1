@@ -10,9 +10,6 @@ public class Task3 {
         String Phone = "+380931234567";
         String Job = "Codenvy";
 
-        System.out.printf("Name:        %s \n", Name);
-        System.out.printf("Second name: %s \n", SecondName);
-        System.out.printf("Phone:       %s \n", Phone);
-        System.out.printf("Job:         %s \n", Job);
+        System.out.printf("Name:        %s \nSecond name: %s \nPhone:       %s \nJob:         %s", Name , SecondName, Phone, Job);
     }
 }
