@@ -12,8 +12,6 @@ public class Task5 {
         int b=0;
         double Result=0;
         System.out.println("This is calculator");
-        //a=(int)(Math.random()*100);
-        //b=(int)(Math.random()*100);
         Scanner in = new Scanner(System.in);
         System.out.print("Input first integer ");
         a = in.nextInt();
