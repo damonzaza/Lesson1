@@ -4,8 +4,6 @@
  */
 import java.util.Scanner;
 
-import static java.lang.System.in;
-
 public class Task5 {
     public static void main(String[] args) {
         int a=0;
